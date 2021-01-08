@@ -8,10 +8,10 @@ https://github.com/AlanLinsAlves/Projetos_Pessoais/blob/main/grafico_balanco_hid
 
 ## Criando Mapas com o Folium - Uma Visualização da Matriz Energética Brasileira:
 https://github.com/AlanLinsAlves/Projetos_Pessoais/blob/main/matriz_energetica_folium.ipynb
-ou
-https://github.com/AlanLinsAlves/Projetos_Pessoais/blob/main/matriz_energetica_folium.ipynb
+
+https://colab.research.google.com/drive/1G0ZKAaf7cGzpim0ciSA3wYRw8AphP-pJ?usp=sharing
 
 ## Previsão de geração de energia solar com machine learning: 
 https://github.com/AlanLinsAlves/Projetos_Pessoais/blob/main/Previsao_geracao_energia_solar.ipynb
-ou
+
 https://colab.research.google.com/drive/1kArYGNs9TQIH4a12O8IXo9GP2ntc2ogi?usp=sharing
