@@ -6,6 +6,8 @@ Em breve mais atualizações!
 ## Plotagem do Gráfico de Balanço Hídrico - Um Exemplo Legal:
 https://github.com/AlanLinsAlves/Projetos_Pessoais/blob/main/grafico_balanco_hidrico.ipynb
 
+## Criando Mapas com o Folium - Uma Visualização da Matriz Energética Brasileira:
+
 
 ## Previsão de geração de energia solar com machine learning: 
 https://github.com/AlanLinsAlves/Projetos_Pessoais/blob/main/Previsao_geracao_energia_solar.ipynb
