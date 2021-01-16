@@ -12,9 +12,7 @@ https://github.com/AlanLinsAlves/Projetos_Pessoais/blob/main/matriz_energetica_f
 https://colab.research.google.com/drive/1G0ZKAaf7cGzpim0ciSA3wYRw8AphP-pJ?usp=sharing
 
 ## Um gráfico de barras apresentável sobre a potência gerada a partir de fontes de energia renováveis no Brasil:
-
-
-https://colab.research.google.com/drive/1trQ4Y83LU5H9I7OWxeagJABRCAt4rxTV?usp=sharing
+https://github.com/AlanLinsAlves/Projetos_Pessoais/blob/main/energia_renov_por_regiao.ipynb
 
 ## Previsão de geração de energia solar com machine learning: 
 https://github.com/AlanLinsAlves/Projetos_Pessoais/blob/main/Previsao_geracao_energia_solar.ipynb
